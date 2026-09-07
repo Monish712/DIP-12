@@ -1,4 +1,4 @@
-# DIP-11
+# DIP-12
 # Face Detection using Haar Cascades with OpenCV and Matplotlib
 ## Name: PAKANATI MONISH
 ## Reg no: 212224240109
